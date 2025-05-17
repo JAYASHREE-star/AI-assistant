@@ -1,0 +1,10 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to chrom${extensionInstallFolder:publisher.extension}",
+            "type": "vstuc",
+            "request": "attach"
+        }
+     ]
+}
